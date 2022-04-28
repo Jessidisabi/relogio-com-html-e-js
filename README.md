@@ -1,2 +1,2 @@
 # relogio-com-html-e-js
-Página HTML com relógio funcional.
+Página HTML com relógio funcional
